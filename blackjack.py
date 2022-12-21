@@ -6,7 +6,7 @@ win = Tk()
 win.minsize(845,500)
 win.maxsize(845,500)
 win.title("BlackJack")
-win.iconbitmap('l.ico')
+win.iconbitmap('cards/l.ico')
 win.configure(bg="#3ab503")
 
 dw=0
